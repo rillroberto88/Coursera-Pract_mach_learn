@@ -7,4 +7,4 @@ This repository contains 3 important files:
 - weightLift.html: HTML version of the R markdown
 - Weight Lifting Project.chm: compiled HTML file
 
-This file was created by Robert Rill, 2014 June.
+This file was created by Robert Rill, 19 June 2014.
